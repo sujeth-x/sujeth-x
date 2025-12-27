@@ -37,9 +37,7 @@
 <a href="YOUR_LINKEDIN_URL">
   <img height="45" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_INSTAGRAM_URL">
-  <img height="45" src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+
 <a href="https://github.com/YOUR_USERNAME">
   <img height="45" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -87,11 +85,6 @@
 
 <br>
 
-<h2>📊 GitHub Stats</h2>
-
-<img width="520" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&show_icons=true&hide=issues"/>
-
-<br><br>
 
 <h2>🧩 LeetCode Stats</h2>
 
