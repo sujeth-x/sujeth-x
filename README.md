@@ -1,81 +1,75 @@
-<div align="center">
-
-<h1>Hi there 👋 It's me Sujeth</h1>
-
-</div>
+<!-- HEADER -->
+<h1 align="center">Hi there 👋 It's me Sujeth</h1>
 
 <!-- RIGHT SIDE GIF -->
-<img align="right" width="420" src="web.gif"/>
+<img align="right" width="480" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
 
-<p style="font-size:18px;">
+<p style="font-size:22px;">
 🎓 <b>Final Year Engineering Student</b>
 </p>
 
-<p style="font-size:20px;">
+<p style="font-size:24px;">
 💻 <b>Java Backend Developer | Spring Boot</b>
 </p>
 
-<p style="font-size:18px;">
+<p style="font-size:22px;">
 🤖 <b>AI & Computer Vision Enthusiast</b>
 </p>
 
-<p style="font-size:16px;">
+<p style="font-size:18px;">
 🔭 <b>Major Project</b>: AI-Based Visual Reasoning Assistant for the Visually Impaired <br><br>
-🌱 <b>Currently learning</b>: Data Structures & Algorithms, Spring Boot (Advanced) <br><br>
+🌱 <b>Currently learning</b>: Data Structures & Algorithms, Spring Boot (Advanced), Cybersecurity fundamentals <br><br>
 🧠 <b>Interests</b>: Backend Engineering, AI for Accessibility <br><br>
-🎯 <b>Current Focus</b>: Improving backend design, API performance, and DSA skills
-
+🎯 <b>Current Focus</b>: Improving backend design, API performance, DSA skills, and security-aware development
 </p>
 
 <br clear="right"/>
 
-<div align="center">
+<!-- SOCIAL -->
+<h2 align="center">🌐 Social Presence</h2>
 
-<h2>🌐 Social Presence</h2>
-
-<p>
-<a href="YOUR_LINKEDIN_URL">
-  <img height="45" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+<a href="https://www.linkedin.com/in/sujeth-s-424259348/">
+  <img height="48" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
-
+<a href="mailto:ssujeth21@gmail.com">
+  <img height="48" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
+</a>
 <a href="https://github.com/YOUR_USERNAME">
-  <img height="45" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="48" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 </p>
 
-<br>
+<!-- TECH STACK -->
+<h2 align="center">💻 I code in</h2>
 
-<h2>💻 Tech Stack</h2>
-
-<p>
-<img height="64" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
-<img height="64" src="https://img.icons8.com/color/48/python.png"/>
-<img height="60" src="https://img.icons8.com/color/48/html-5.png"/>
-<img height="60" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="60" src="https://img.icons8.com/color/48/javascript.png"/>
-<img height="60" src="https://img.icons8.com/color/48/spring-logo.png"/>
-<img height="60" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img height="60" src="https://img.icons8.com/color/48/linux.png"/>
-<img height="60" src="https://img.icons8.com/color/48/git.png"/>
+<p align="center">
+<img height="55" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img height="55" src="https://img.icons8.com/color/48/python.png"/>
+<img height="55" src="https://img.icons8.com/color/48/html-5.png"/>
+<img height="55" src="https://img.icons8.com/color/48/css3.png"/>
+<img height="55" src="https://img.icons8.com/color/48/javascript.png"/>
+<img height="55" src="https://img.icons8.com/color/48/spring-logo.png"/>
+<img height="55" src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img height="55" src="https://img.icons8.com/color/48/linux.png"/>
+<img height="55" src="https://img.icons8.com/color/48/git.png"/>
 </p>
 
-<br>
+<!-- TOOLS -->
+<h2 align="center">🧰 Tools & IDEs</h2>
 
-<h2>🧰 Tools & IDEs</h2>
-
-<p>
-<img height="64" src="https://img.icons8.com/color/64/visual-studio-code-2019.png"/>
-<img height="64" src="https://img.icons8.com/color/64/intellij-idea.png"/>
-<img height="64" src="https://img.icons8.com/color/64/eclipse.png"/>
-<img height="70" src="https://img.icons8.com/dusk/64/postman-api.png" alt="postman-api"/>
-<img height="64" src="https://img.icons8.com/color/64/notion.png"/>
+<p align="center">
+<img height="55" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img height="55" src="https://img.icons8.com/color/48/intellij-idea.png"/>
+<img height="55" src="https://img.icons8.com/color/48/eclipse.png"/>
+<img height="55" src="https://img.icons8.com/color/48/postman-api.png"/>
+<img height="55" src="https://img.icons8.com/color/48/notion.png"/>
 </p>
 
-<br>
+<!-- PROJECTS -->
+<h2 align="center">🧠 Key Projects</h2>
 
-<h2>🧠 Key Projects</h2>
-
-<p style="font-size:16px;">
+<p align="center" style="font-size:18px;">
 🔹 AI-Based Visual Assistant for the Visually Impaired <br>
 🔹 Task Management System (Spring Boot) <br>
 🔹 SPIDEY – Virtual AI Assistant <br>
@@ -83,20 +77,20 @@
 </p>
 
 
-<br>
 
+<!-- LEETCODE -->
+<h2 align="center">🧩 LeetCode Stats</h2>
 
-<h2>🧩 LeetCode Stats</h2>
+<p align="center">
+<img width="560" src="https://leetcard.jacoblin.cool/sujeth_21?theme=dark&font=Suez%20One"/>
+</p>
 
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
-<img width="520" src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark"/>
-</a>
+<!-- ACTIVITY -->
+<h2 align="center">📈 GitHub Activity</h2>
 
-<br><br>
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sujeth-x&bg_color=0d1117&color=600a80&line=2e004d&point=3b424a&area=true&hide_border=true"/>
 
-<h2>📈 GitHub Activity</h2>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujeth-x&bg_color=100f0f&color=790080&line=4b0c4b&point=322f2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+</p>
 
 
