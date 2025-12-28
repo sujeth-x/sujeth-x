@@ -32,10 +32,11 @@
 <a href="https://www.linkedin.com/in/sujeth-s-424259348/">
   <img height="48" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
 </a>
-<a href="mailto:ssujeth21@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ssujeth21@gmail.com">
   <img height="48" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+
+<a href="https://github.com/sujeth-x">
   <img height="48" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white"/>
 </a>
 </p>
