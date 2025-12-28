@@ -1,29 +1,29 @@
-<!-- HEADER -->
 <h1 align="center">Hi there 👋 It's me Sujeth</h1>
 
 <!-- RIGHT SIDE GIF -->
-<img align="right" width="200" src="https://lottie.host/b791503c-736e-4617-8777-5ba80be977d4/C4kTeIN51I.lottie"/>
+<img align="right" width="400" src="https://github.com/sujeth-x/sujeth-x/blob/main/Programming.gif"/>
 
-<p style="font-size:22px;">
-🎓 <b>Final Year Engineering Student</b>
-</p>
+<!-- LEFT SIDE CONTENT -->
+<div style="font-size:18px; max-width:55%;">
 
-<p style="font-size:24px;">
-💻 <b>Java Backend Developer | Spring Boot</b>
-</p>
+🎓 <b>Final Year Engineering Student</b> <br><br>
 
-<p style="font-size:22px;">
-🤖 <b>AI & Computer Vision Enthusiast</b>
-</p>
+💻 <b>Java Backend Developer | Spring Boot</b> <br><br>
 
-<p style="font-size:18px;">
+🤖 <b>AI & Computer Vision Enthusiast</b> <br><br>
+
 🔭 <b>Major Project</b>: AI-Based Visual Reasoning Assistant for the Visually Impaired <br><br>
+
 🌱 <b>Currently learning</b>: Data Structures & Algorithms, Spring Boot (Advanced), Cybersecurity fundamentals <br><br>
+
 🧠 <b>Interests</b>: Backend Engineering, AI for Accessibility <br><br>
+
 🎯 <b>Current Focus</b>: Improving backend design, API performance, DSA skills, and security-aware development
-</p>
+
+</div>
 
 <br clear="right"/>
+
 
 <!-- SOCIAL -->
 <h2 align="center">🌐 Social Presence</h2>
