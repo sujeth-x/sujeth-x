@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋 It's me Sujeth</h1>
 
 <!-- RIGHT SIDE GIF -->
-<img align="right" width="480" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"/>
+<img align="right" width="200" src="https://lottie.host/b791503c-736e-4617-8777-5ba80be977d4/C4kTeIN51I.lottie"/>
 
 <p style="font-size:22px;">
 🎓 <b>Final Year Engineering Student</b>
