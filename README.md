@@ -52,7 +52,8 @@
 <img height="55" src="https://img.icons8.com/color/48/javascript.png"/>
 <img height="55" src="https://img.icons8.com/color/48/spring-logo.png"/>
 <img height="55" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img height="55" src="https://img.icons8.com/color/48/linux.png"/>
+<img height="55" src="https://img.icons8.com/color/48/postgreesql.png"/>
+<img height="55" src="https://img.icons8.com/color/48/mongodb.png"/>
 <img height="55" src="https://img.icons8.com/color/48/git.png"/>
 </p>
 
@@ -63,7 +64,7 @@
 <img height="55" src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img height="55" src="https://img.icons8.com/color/48/intellij-idea.png"/>
 <img height="55" src="https://img.icons8.com/color/48/eclipse.png"/>
-<img height="55" src="https://img.icons8.com/color/48/postman-api.png"/>
+<img height="55" src="https://img.icons8.com/dusk/64/postman-api.png"/>
 <img height="55" src="https://img.icons8.com/color/48/notion.png"/>
 </p>
 
