@@ -79,7 +79,7 @@
 
 <p align="center" style="font-size:18px;">
 🔹 AI-Based Visual Assistant for the Visually Impaired <br>
-🔹 Task Management System (Spring Boot) <br>
+🔹 Order Processing mini project <br>
 🔹 SPIDEY – Virtual AI Assistant <br>
 🔹 JWT Secured Bus Ticket Reservation System
 </p>
