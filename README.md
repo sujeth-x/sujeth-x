@@ -55,7 +55,7 @@
   <img height="55" src="https://img.icons8.com/color/48/postgreesql.png"/>
   <img height="55" src="https://img.icons8.com/color/48/mongodb.png"/>
 
-  <img  height="55" alt="image" src="https://github.com/user-attachments/assets/59a49224-5435-41dc-82b9-e69b28cb66bf" />
+  <img height="55" src="https://img.icons8.com/nolan/64/apache-kafka.png" alt="apache-kafka"/>
    
 
 
