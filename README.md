@@ -1,4 +1,11 @@
-<h1 align="center">Hi there 👋 It's me Sujeth</h1>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2000&pause=800&color=5A2D82&background=000000&center=true&vCenter=true&width=750&lines=Hello+There+!!;User:+Sujeth;Role:+Full+Stack+Developer+(Java);Specialization:+Java+%7C+Backend+%7C+AI"/>
+</h1>
+
+
+
+
 
 <!-- RIGHT SIDE GIF -->
 <img align="right" width="400" src="https://github.com/sujeth-x/sujeth-x/blob/main/Programming.gif"/>
@@ -78,10 +85,11 @@
 <h2 align="center">🧠 Key Projects</h2>
 
 <p align="center" style="font-size:18px;">
-🔹 AI-Based Visual Assistant for the Visually Impaired <br>
-🔹 Order Processing mini project <br>
-🔹 SPIDEY – Virtual AI Assistant <br>
-🔹 JWT Secured Bus Ticket Reservation System
+🔹 AI-Based Visual Reasoning Assistant for the Visually Impaired <br>
+🔹 Order Processing System (Mini Project) <br>
+🔹 SPIDEY – Intelligent Virtual AI Assistant <br>
+🔹 JWT-Secured Bus Ticket Reservation System <br>
+🔹 Personal Finance Management (Money Manager) Application
 </p>
 
 
