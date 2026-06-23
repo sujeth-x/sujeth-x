@@ -64,8 +64,7 @@
 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 
-  <img height="55" src="https://img.icons8.com/color/48/linux.png"/>
-  <img height="55" src="https://img.icons8.com/color/48/kali-linux.png"/>
+
 
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
@@ -81,6 +80,8 @@
   <img height="55" src="https://img.icons8.com/color/48/eclipse.png"/>
   <img height="55" src="https://img.icons8.com/dusk/64/postman-api.png"/>
   <img height="55" src="https://img.icons8.com/color/48/notion.png"/>
+    <img height="55" src="https://img.icons8.com/color/48/linux.png"/>
+  <img height="55" src="https://img.icons8.com/color/48/kali-linux.png"/>
 </p>
 
 
