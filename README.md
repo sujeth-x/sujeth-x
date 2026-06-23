@@ -26,7 +26,7 @@
 
 <br clear="right"/>
 
----
+
 
 <h2 align="center">🌐 Social Presence</h2>
 
@@ -44,7 +44,7 @@
   </a>
 </p>
 
----
+
 
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -72,7 +72,6 @@
 
 </p>
 
----
 
 <h2 align="center">🧰 Tools & IDEs</h2>
 
@@ -84,7 +83,6 @@
   <img height="55" src="https://img.icons8.com/color/48/notion.png"/>
 </p>
 
----
 
 <h2 align="center">🧠 Key Projects</h2>
 
@@ -102,7 +100,7 @@
 
 </p>
 
----
+
 
 <h2 align="center">🧩 LeetCode Stats</h2>
 
@@ -110,7 +108,18 @@
   <img width="560" src="https://leetcard.jacoblin.cool/sujeth_21?theme=dark&font=Suez%20One"/>
 </p>
 
----
+<h2 align="center">🧩 Striver A2Z DSA Progress</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems_Solved-233%2F474-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Completion-49%25-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z">
+    <img src="https://img.shields.io/badge/Striver_A2Z_DSA_Sheet-View_Roadmap-5A2D82?style=for-the-badge"/>
+  </a>
+</p>
 
 <h2 align="center">📈 GitHub Activity</h2>
 
@@ -122,7 +131,6 @@
   <img src="https://komarev.com/ghpvc/?username=sujeth-x&label=Profile%20Views&color=6f42c1&style=for-the-badge"/>
 </p>
 
----
 
 <h3 align="center">
 🚀 Building Scalable Backend Systems | Exploring Cybersecurity | Creating AI Solutions for Accessibility
