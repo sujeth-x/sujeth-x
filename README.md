@@ -111,8 +111,8 @@
 <h2 align="center">🧩 Striver A2Z DSA Progress</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems_Solved-233%2F474-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Completion-49%25-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Problems_Solved-261%2F474-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Completion-50%25-purple?style=for-the-badge"/>
 </p>
 
 <p align="center">
