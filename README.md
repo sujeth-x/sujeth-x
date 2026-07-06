@@ -8,7 +8,7 @@
 <!-- LEFT SIDE CONTENT -->
 <div style="font-size:18px; max-width:55%;">
 
-🎓 <b>Final Year Engineering Student</b>
+🎓 <b>Recent CSE Graduate</b>
 
 💻 <b>Java Backend Developer | Spring Boot</b>
 
