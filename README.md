@@ -108,11 +108,11 @@
 
 <p align="center" style="font-size:18px;">
 
+🔹 SecureShield – Real-Time Cyber Threat Detection Platform
+
 🔹 AI-Based Visual Reasoning Assistant for the Visually Impaired
 
-🔹 Order Processing System (Mini Project)
-
-🔹 SPIDEY – Intelligent Virtual AI Assistant
+🔹 Kafka-Based Order Processing System
 
 🔹 JWT-Secured Bus Ticket Reservation System
 
