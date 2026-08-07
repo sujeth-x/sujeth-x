@@ -47,32 +47,49 @@
 
 
 <h2 align="center">💻 Tech Stack</h2>
-
 <p align="center">
-
+  <!-- Languages -->
   <img height="55" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
   <img height="55" src="https://img.icons8.com/color/48/python.png"/>
+  <img height="55" src="https://img.icons8.com/color/48/c-programming.png"/>
   <img height="55" src="https://img.icons8.com/color/48/html-5.png"/>
   <img height="55" src="https://img.icons8.com/color/48/css3.png"/>
   <img height="55" src="https://img.icons8.com/color/48/javascript.png"/>
+  <!-- Backend -->
   <img height="55" src="https://img.icons8.com/color/48/spring-logo.png"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <!-- Database -->
   <img height="55" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-  <img height="55" src="https://img.icons8.com/color/48/postgreesql.png"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img height="55" src="https://img.icons8.com/color/48/mongodb.png"/>
+  <!-- APIs -->
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SOAP_API-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WSDL-00599C?style=for-the-badge"/>
+  <!-- Messaging -->
   <img height="55" src="https://img.icons8.com/nolan/64/apache-kafka.png"/>
+  <!-- Build Tools -->
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <!-- Version Control -->
   <img height="55" src="https://img.icons8.com/color/48/git.png"/>
-
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-
-  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <!-- AI / ML -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
   <!-- Cyber Security -->
-  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/TShark-0E83CD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 </p>
 
 <h2 align="center">🧰 Tools & IDEs</h2>
