@@ -68,7 +68,7 @@
   <img height="55" src="https://img.icons8.com/color/48/mongodb.png"/>
   <!-- APIs -->
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SOAP_API-0A66C2?style=for-the-badge"/>
+ 
   <img src="https://img.shields.io/badge/XML-E34F26?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/WSDL-00599C?style=for-the-badge"/>
   <!-- Messaging -->
@@ -77,14 +77,13 @@
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
   <!-- Version Control -->
   <img height="55" src="https://img.icons8.com/color/48/git.png"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  
   <!-- AI / ML -->
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <!-- Cyber Security -->
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
