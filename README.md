@@ -55,13 +55,17 @@
   <img height="55" src="https://img.icons8.com/color/48/html-5.png"/>
   <img height="55" src="https://img.icons8.com/color/48/css3.png"/>
   <img height="55" src="https://img.icons8.com/color/48/javascript.png"/>
-  <!-- Backend -->
+   <!-- Backend -->
   <img height="55" src="https://img.icons8.com/color/48/spring-logo.png"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+
+  <!-- Django / Python Backend -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white"/>
   <!-- Database -->
   <img height="55" src="https://img.icons8.com/color/48/mysql-logo.png"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
